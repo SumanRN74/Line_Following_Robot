@@ -75,5 +75,6 @@ Based on the sensor data, these routines regulate the robot’s movement. They i
 
 ## 👨‍💻 Author
 **Suman R N**  
-📧 Contact: sumansurn@gmail.com  
+📧 Contact: sumansurn@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/suman-r-1b5260335 
 
